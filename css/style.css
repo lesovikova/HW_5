@@ -1,0 +1,47 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    width: 800px;
+    margin: auto;
+}
+
+.header__title {
+    background-color: #A62A2A;
+    color: white;
+    text-align: center;
+}
+
+.header__banner {
+    width: 100%;
+}
+
+.text-paragraph__item {
+    font-size: 20px;
+}
+
+.text-paragraph__item_italic {
+    font-style: italic;
+}
+
+.text-paragraph__item_bold {
+    font-weight: bold;
+}
+
+.gallery__item {
+    display: inline-block;
+    border: solid 2px #A62A2A;
+}
+
+.gallery {
+    text-align: center;
+}
+
+.footer__copyright {
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-size: 22px;
+}
